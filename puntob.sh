@@ -22,5 +22,5 @@ sdc      8:32   0   10G  0 disk
 ├─sdc1   8:33   0  2.5G  0 part
 ├─sdc2   8:34   0  2.5G  0 part
 ├─sdc3   8:35   0  2.5G  0 part
-└─sdc4   8:36   0  2.3G  0 part
+└─sdc4   8:36   0    1k  0 part
 sdd      8:48   0    2G  0 disk
