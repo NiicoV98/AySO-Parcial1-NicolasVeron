@@ -23,6 +23,3 @@ whoami > Examanes-UTN/alumnos_1/validar.txt
 whoami > Examanes-UTN/alumnos_2/validar.txt
 whoami > Examanes-UTN/alumnos_3/validar.txt
 whoami > Examanes-UTN/profesores/validar.txt
-
-
-i
