@@ -24,3 +24,15 @@ sdc      8:32   0   10G  0 disk
 ├─sdc3   8:35   0  2.5G  0 part
 └─sdc4   8:36   0    1k  0 part
 sdd      8:48   0    2G  0 disk
+sudo mkfs.ext4 /dev/sdc1
+sudo mkfs.ext4 /dev/sdc2
+sudo mkfs.ext4 /dev/sdc3
+sudo mkfs.ext4 /dev/sdc4
+sudo mount /dev/sdc1 /mnt/sdc1
+sudo mount /dev/sdc2 /mnt/sdc2
+sudo mount /dev/sdc3 /mnt/sdc3
+sudo mkdir /mnt/sdc3
+sudo mount /dev/sdc3 /mnt/sdc3
+sudo mkdir /mnt/sdc4
+sudo mount /dev/sdc4 /mnt/sdc4
+
